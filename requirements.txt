@@ -1,0 +1,5 @@
+tensorboard
+torchvision
+tdqm
+python-opencv
+matplotlib
